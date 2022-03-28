@@ -1,1 +1,1 @@
-# Endpoing must be run on http://localhost:4000/
+# Endpoint must be run on http://localhost:4000/
